@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@lightedits_99" target="_blank">
+  <a href="https://www.youtube.com/@lightedits99" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=Kanal%C4%B1m&color=FF0000&logoColor=white&labelColor=FF1112&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 </div>
